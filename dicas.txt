@@ -3,3 +3,5 @@ Sempre coloque boas mensagens nos seus commits.
 Trabalhe sempre no ramo de desenvolvimento, e depois espelhe as mudanças para o ramo principal.
 
 Tente evitar conflitos.
+
+Busque conhecimento.
