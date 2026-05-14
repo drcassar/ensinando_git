@@ -1,2 +1,9 @@
-# ensinando_git
-Repositório para a aula de git da turma 26 da Ilum
+# Aula de git 2026
+
+Docente: Daniel R. Cassar
+
+Ilum Escola de Ciência, CNPEM.
+
+Repositório para a aula de git da turma 26 da Ilum. 
+
+Neste momento, o repositório está em construção e estamos ainda atualizado o README.
